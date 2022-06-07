@@ -26,8 +26,8 @@ Bu, discord.js v13 kullanarak kategorilerle komutlar yapmak için örnek bir bot
 * Adım 6: Bot Tokenini Kopyalamak için "copy" Düğmesine Tıkla!:
 <img src="https://i.ibb.co/4dm4WpB/ad-m5.png" />
 
-* Adım 7:  `.env.example` Dosyasını Düzenleyin ve Tokeni Yapıştırın.
-* Adım 8:  `.env.example`, Dosya İsmini `.env` Dosya İsmine Dönüştürün.
+* Adım 7:  `env.txt` Dosyasını Düzenleyin ve Tokeni Yapıştırın.
+* Adım 8:  `env.txt`, Dosya İsmini `.env` Dosya İsmine Dönüştürün.
 * Adım 9:  `config.js` Dosyasını Kendinize Göre Düzenleyin.
 * Adım 10: `npm i` ile Modulleri Kurun.
 * Adım 11: Botu Başlatmak için `npm start`!
